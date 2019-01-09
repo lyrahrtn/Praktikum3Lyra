@@ -12,7 +12,7 @@ latihan 5
 latihan 6
 ![alt text](https://github.com/lyrahrtn/Praktikum3Lyra/blob/master/latihan%206.JPG)
 Form Login
-![alt text](https://github.com/lyrahrtn/Praktikum3Lyra/blob/master/Tugas%20Login.JPG)
+![alt text](https://github.com/lyrahrtn/Praktikum3Lyra/blob/master/form%20login.JPG)
 Jika berhasil login
 ![alt text](https://github.com/lyrahrtn/Praktikum3Lyra/blob/master/Berhasil%20login.JPG)
 Jika gagal login
